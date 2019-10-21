@@ -8,6 +8,7 @@ D:\Documentos\visual studio\carripollo\carripollo\obj\Debug\carripollo.csproj.Ge
 D:\Documentos\visual studio\carripollo\carripollo\obj\Debug\carripollo.csproj.CopyComplete
 D:\Documentos\visual studio\carripollo\carripollo\obj\Debug\carripollo.exe
 D:\Documentos\visual studio\carripollo\carripollo\obj\Debug\carripollo.pdb
-D:\Documentos\visual studio\carripollo\carripollo\obj\Debug\carripollo.Form2.resources
 D:\Documentos\visual studio\carripollo\carripollo\obj\Debug\carripollo.UfVentas.resources
 D:\Documentos\visual studio\carripollo\carripollo\obj\Debug\carripollo.csprojAssemblyReference.cache
+D:\Documentos\visual studio\carripollo\carripollo\obj\Debug\carripollo.UFClientes.resources
+D:\Documentos\visual studio\carripollo\carripollo\obj\Debug\carripollo.UFHistorial.resources
