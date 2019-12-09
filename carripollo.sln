@@ -5,6 +5,10 @@ VisualStudioVersion = 16.0.29409.12
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "carripollo", "carripollo\carripollo.csproj", "{03C1D192-3CA1-4004-9DAA-8B5990579C4C}"
 EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Models", "Models\Models.vbproj", "{20DDA843-55F0-4713-A97A-D6FF752FADB6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ViewModels", "ViewModels\ViewModels.csproj", "{96B21142-820B-4EEF-8553-9273936DA699}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{03C1D192-3CA1-4004-9DAA-8B5990579C4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{03C1D192-3CA1-4004-9DAA-8B5990579C4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{03C1D192-3CA1-4004-9DAA-8B5990579C4C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{20DDA843-55F0-4713-A97A-D6FF752FADB6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20DDA843-55F0-4713-A97A-D6FF752FADB6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20DDA843-55F0-4713-A97A-D6FF752FADB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20DDA843-55F0-4713-A97A-D6FF752FADB6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{96B21142-820B-4EEF-8553-9273936DA699}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96B21142-820B-4EEF-8553-9273936DA699}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96B21142-820B-4EEF-8553-9273936DA699}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96B21142-820B-4EEF-8553-9273936DA699}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
